@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lfgrillo83/sizestr"
+	"github.com/lfgrillo83/sizestr@v1.0.0"
 )
 
 // GoStats prints statistics to

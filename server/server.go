@@ -16,7 +16,7 @@ import (
 	"github.com/lfgrillo83/groselha/share/cio"
 	"github.com/lfgrillo83/groselha/share/cnet"
 	"github.com/lfgrillo83/groselha/share/settings"
-	"github.com/lfgrillo83/requestlog"
+	"github.com/lfgrillo83/requestlog@v1.0.1"
 	"golang.org/x/crypto/ssh"
 )
 

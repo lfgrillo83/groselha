@@ -8,7 +8,7 @@ import (
 
 	"github.com/lfgrillo83/groselha/share/cio"
 	"github.com/lfgrillo83/groselha/share/settings"
-	"github.com/lfgrillo83/sizestr"
+	"github.com/lfgrillo83/sizestr@v1.0.0"
 	"golang.org/x/crypto/ssh"
 )
 

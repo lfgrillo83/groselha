@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/lfgrillo83/backoff"
+	"github.com/lfgrillo83/backoff@v1.0.0"
 	grshare "github.com/lfgrillo83/groselha/share"
 	"github.com/lfgrillo83/groselha/share/cnet"
 	"github.com/lfgrillo83/groselha/share/cos"

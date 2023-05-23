@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/lfgrillo83/groselha/share/cio"
-	"github.com/lfgrillo83/sizestr"
+	"github.com/lfgrillo83/sizestr@v1.0.0"
 )
 
 // NewMeter to measure readers/writers
