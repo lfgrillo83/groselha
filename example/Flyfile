@@ -1,0 +1,2 @@
+FROM lfgrillo83/groselha
+ENTRYPOINT ["/app/bin", "server", "--port", "443", "--tls-domain", "groselha.lfgrillo83.com"]
